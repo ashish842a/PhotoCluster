@@ -1,0 +1,74 @@
+# Ignore virtual environment
+venv/
+images/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Python byte-compiled files
+*.pyc
+*.pyo
+
+# Ignore Python eggs
+*.egg
+
+# Ignore Python dist files
+*.egg-info/
+*.egg-link
+
+# Ignore Python log files
+*.log
+
+# Ignore Python pip-compiled packages
+*.whl
+
+# Ignore Python pyc files
+*.pyc
+*.pyo
+
+# Ignore Python pycache files
+__pycache__/
+
+# Ignore Python setup files
+setup.py
+
+# Ignore Python test files
+*.test
+*.py.test
+
+# Ignore Python user-generated files
+*.user
+
+# Ignore Python virtual environment files
+venv/
+
+# Ignore Python wheel files
+*.wheel-info/
+
+# Ignore Python pip-compiled packages
+*.whl
+
+# Ignore Python pyc files
+*.pyc
+*.pyo
+
+# Ignore Python pycache files
+__pycache__/
+
+# Ignore Python setup files
+setup.py
+
+# Ignore Python test files
+*.test
+*.py.test
+
+# Ignore Python user-generated files
+*.user
+
+# Ignore Python virtual environment files
+venv/
+
+# Ignore Python wheel files
+*.wheel-info/
